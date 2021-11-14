@@ -1,5 +1,5 @@
 """
-CSC Course
+Lines 87-93 fixed. A hash generator added.
 
 Add hashing to the password function
 
