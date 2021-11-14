@@ -1,5 +1,5 @@
 """
-CSC Course
+Lines 68-71 fixed by way of adding a utf range code checker.
 
 Protect the password function against a poison NULL byte
 
