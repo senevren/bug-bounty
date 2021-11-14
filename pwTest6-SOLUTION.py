@@ -1,4 +1,4 @@
-# CSC Course
+# Lines 17-18 save salts and hashes
 # Save a random salt and a hashed password to binary files for later use
 
 import hashlib
