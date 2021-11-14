@@ -1,5 +1,5 @@
 """
-CSC Course
+Line 98 adds some (fixed) or not random salting to the pw
 
 Add salt to the password hashing function
 
